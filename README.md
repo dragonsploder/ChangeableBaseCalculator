@@ -1,5 +1,5 @@
 # Changeable Base Calculator
-A simple calculator for working with bases other then base 10.
+A simple calculator for working with bases other than base 10.
 
 
 ## Example
